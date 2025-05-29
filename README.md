@@ -1,12 +1,59 @@
-# React + Vite
+# GTA VI Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **GTA VI Website** is a visually stunning and animation-rich landing page created to showcase a modern front-end experience inspired by the upcoming **Grand Theft Auto VI**. Built using **React**, **Tailwind CSS**, and **GSAP animations**, this project highlights smooth transitions, dynamic scroll effects, and an immersive design tailored for fans of the franchise.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Screenshot](#screenshot)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is a concept website designed purely using front-end technologies. It incorporates elegant gsap animations to present an engaging experience for users. It is an ideal demonstration of animation handling in React using **GSAP**, combined with the design power of **Tailwind CSS**.
+
+## Features
+
+- Smooth scroll-triggered animations with **GSAP**
+- Clean, modern UI inspired by GTA VI's aesthetic
+- Modular React component architecture
+
+## Technologies Used
+
+- **React** – JavaScript library for building user interfaces
+- **Tailwind CSS** – Utility-first CSS framework for responsive design
+- **GSAP (GreenSock Animation Platform)** – For creating high-performance animations
+
+## Setup and Installation
+
+To run the GTA VI Website locally, follow the steps below:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/OmkarGhadge24/gta-vi.git
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd gta-vi
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+5. Then open http://localhost:5173 in your browser to view the app.
+
+## Screenshot   
+  ![Landing Page](https://github.com/OmkarGhadge24/gta-vi/blob/main/public/landing%20screen.png)
